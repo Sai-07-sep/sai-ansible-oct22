@@ -1,2 +1,10 @@
+[mywebservers]
 172.31.94.110
 172.312.95.131
+
+
+
+
+[mywebservers:vars]
+var:value
+mywebpackonubuntu: apache2
